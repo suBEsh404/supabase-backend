@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Docker
+.dockerignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# Build output (if applicable)
+dist/
+build/
+
+# IDE/editor config (optional, but recommended)
+.vscode/
+.idea/
+*.swp
